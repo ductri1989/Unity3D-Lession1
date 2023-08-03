@@ -13,6 +13,7 @@ Làm quen với object 3D + các hàm Move cơ bản
 - Gắn `Rigidbody`(Vật lý) vào GameObject
 - Trang trí map với các resource trên `Asset Store`
 - Gắn Script vào cho vật thể di chuyển
+- Sử dụng DoTween
 
 #### Di chuyển không Rigidbody
 | Cách gọi | Mô tả |
